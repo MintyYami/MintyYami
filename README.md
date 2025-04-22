@@ -1,8 +1,10 @@
 # Chutiyada (Mint) Cheepchiewcharnchai
 
+Self-taught programmer with enthusiasm towards Artificial Intelligence and software development. Currently studying BSc Computer Science with Artificial Intelligence at the University of Nottingham.
+
 ---
 
-Self-taught programmer with enthusiasm towards Artificial Intelligence and software development. Currently studying BSc Computer Science with Artificial Intelligence at the University of Nottingham.
+A small overview of my main skills
 
 ```yaml
 Languages: Python, Java, JavaScript/TypeScript, C, Dart, HTML/CSS, PHP
