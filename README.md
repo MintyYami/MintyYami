@@ -18,11 +18,17 @@ Other Skills: Agile/SCRUM, Debugging, Unit Testing
 **Recent Personal Projects**:
 
 <a href="https://github.com/MintyYami/transportation-booking-chatbot" style="text-decoration:none">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintyYami&repo=transportation-booking-chatbot&theme=tokyonight"/></a>&nbsp
+  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=transportation-booking-chatbot&theme=tokyonight&hide_border=true&card_width=130"/></a>&nbsp;
+
 <a href="https://github.com/MintyYami/audiobook-player" style="text-decoration:none">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintyYami&repo=audiobook-player&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=audiobook-player&theme=tokyonight&hide_border=true&card_width=130"/>
 </a><br><br>
 
 **GitHub Project Statistics**:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MintyYami&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#" style="text-decoration:none">
+  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/top-langs/?username=MintyYami&theme=tokyonight&hide_border=true"/></a>&nbsp;
+
+<a href="#" style="text-decoration:none">
+  <img align="top" src="https://github-readme-stats-sigma-six-87.vercel.app/api?username=MintyYami&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Public&nbsp;Statistics&card_width=10&hide=prs,issues,contribs"/>
+</a><br><br>
