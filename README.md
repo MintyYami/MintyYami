@@ -30,5 +30,5 @@ Other Skills: Agile/SCRUM, Debugging, Unit Testing
   <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/top-langs/?username=MintyYami&theme=tokyonight&hide_border=true"/></a>&nbsp;
 
 <a href="#" style="text-decoration:none">
-  <img align="top" src="https://github-readme-stats-sigma-six-87.vercel.app/api?username=MintyYami&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Public&nbsp;Statistics&card_width=10&hide=prs,issues,contribs"/>
+  <img align="top" src="https://github-readme-stats-sigma-six-87.vercel.app/api?username=MintyYami&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Project&nbsp;Statistics&card_width=10&hide=prs,issues,contribs"/>
 </a><br><br>
