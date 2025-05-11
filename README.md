@@ -18,9 +18,9 @@ Other Skills: Agile/SCRUM, Debugging, Unit Testing
 **Recent Personal Projects**:
 
 <a href="https://github.com/MintyYami/transportation-booking-chatbot" style="text-decoration:none">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintyYami&repo=transportation-booking-chatbot&theme=tokyonight"/></a>&nbsp
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintyYami&repo=transportation-booking-chatbot&theme=tokyonight"/></a>&nbsp
 <a href="https://github.com/MintyYami/audiobook-player" style="text-decoration:none">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintyYami&repo=transportation-booking-chatbot&theme=tokyonight"/>
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MintyYami&repo=audiobook-player&theme=tokyonight"/>
 </a><br><br>
 
 **GitHub Project Statistics**:
