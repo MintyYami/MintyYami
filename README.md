@@ -7,8 +7,9 @@ Self-taught programmer with enthusiasm towards AI and full-stack software develo
 **A small overview of my main skills**
 
 ```yaml
-Languages: Python, Java, JavaScript/TypeScript, C, Dart, HTML/CSS, PHP
-Frameworks & Tools: Flutter, React, OpenCV, Scikit-learn, Android Studio
+Languages: Python, Java, JavaScript/TypeScript, C, Dart, HTML/CSS, PHP, SQL
+Frameworks & Tools: Flutter, React, Android Studio
+AI Libraries: Sci-Learn, OpenCV, PyGad, NLTK
 DevOps: Git, Linux
 Other Skills: Agile/SCRUM, Debugging, Unit Testing
 ```
