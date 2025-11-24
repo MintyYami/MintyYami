@@ -1,6 +1,6 @@
 # Chutiyada (Mint) Cheepchiewcharnchai
 
-Self-taught programmer with enthusiasm towards AI and full-stack software development. Recently graduated from University of Nottingham with a degree in BSc Computer Science with Artificial Intelligence.
+Self-taught programmer with enthusiasm towards AI and full-stack software development. Recently graduated from University of Nottingham with a degree in BSc Computer Science with Artificial Intelligence. Currently pursung further studies at the University of Warwick. Looking for graduate opportunities!
 
 ---
 
