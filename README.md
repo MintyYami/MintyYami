@@ -25,8 +25,19 @@ Other Skills: Agile/SCRUM, Debugging, Unit Testing
   <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=transportation-booking-chatbot&theme=tokyonight&hide_border=true&card_width=130"/></a><br><br>
 
 <a href="https://github.com/MintyYami/audiobook-player" style="text-decoration:none">
-  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=audiobook-player&theme=tokyonight&hide_border=true&card_width=130"/>
+  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=audiobook-player&theme=tokyonight&hide_border=true&card_width=130"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/MintyYami/OS-and-concurrency" style="text-decoration:none">
+  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=OS-and-concurrencyr&theme=tokyonight&hide_border=true&card_width=130"/>
 </a><br><br>
+
+**Recent Hackathons and Competitions**:
+
+<a href="https://github.com/MintyYami/adaptive-timetable-personaliser" style="text-decoration:none">
+  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=adaptive-timetable-personaliser&theme=tokyonight&hide_border=true&card_width=130"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/MintyYami/mental-un-health-agent" style="text-decoration:none">
+  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=mental-un-health-agent&theme=tokyonight&hide_border=true&card_width=130"/></a><br><br>
 
 **GitHub Project Statistics**:
 
