@@ -20,15 +20,15 @@ Other Skills: Agile & SCRUM, OOP, Debugging, Unit Testing, Design Patterns & Arc
 
 <a href="https://github.com/MintyYami/perfectionist" style="text-decoration:none">
   <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=OS-and-concurrency&theme=tokyonight&hide_border=true&card_width=130"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/MintyYami//support-ticket-analyser" style="text-decoration:none">
   <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=audiobook-player&theme=tokyonight&hide_border=true&card_width=130"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/MintyYami/pathfinding-intelligent-agent" style="text-decoration:none">
   <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=pathfinding-intelligent-agent&theme=tokyonight&hide_border=true&card_width=130"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/MintyYami/transportation-booking-chatbot" style="text-decoration:none">
   <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=transportation-booking-chatbot&theme=tokyonight&hide_border=true&card_width=130"/>
@@ -38,11 +38,11 @@ Other Skills: Agile & SCRUM, OOP, Debugging, Unit Testing, Design Patterns & Arc
 
 <a href="https://github.com/MintyYami/bateria-detector-and-identifier" style="text-decoration:none">
   <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=adaptive-timetable-personaliser&theme=tokyonight&hide_border=true&card_width=130"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/MintyYami/adaptive-timetable-personaliser" style="text-decoration:none">
   <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=adaptive-timetable-personaliser&theme=tokyonight&hide_border=true&card_width=130"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/MintyYami/mental-un-health-agent" style="text-decoration:none">
   <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=mental-un-health-agent&theme=tokyonight&hide_border=true&card_width=130"/></a><br><br>
