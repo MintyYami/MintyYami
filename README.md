@@ -18,35 +18,18 @@ Other Skills: Agile & SCRUM, OOP, Debugging, Unit Testing, Design Patterns & Arc
 
 **Recent Personal Projects**:
 
-<a href="https://github.com/MintyYami/perfectionist" style="text-decoration:none">
-  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=perfectionist&theme=tokyonight&hide_border=true&card_width=130"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/MintyYami//support-ticket-analyser" style="text-decoration:none">
-  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=support-ticket-analyser&theme=tokyonight&hide_border=true&card_width=130"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/MintyYami/pathfinding-intelligent-agent" style="text-decoration:none">
-  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=pathfinding-intelligent-agent&theme=tokyonight&hide_border=true&card_width=130"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/MintyYami/transportation-booking-chatbot" style="text-decoration:none">
-  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=transportation-booking-chatbot&theme=tokyonight&hide_border=true&card_width=130"/>
-</a><br><br>
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MintyYami&repo=perfectionist&theme=tokyonight&hide_border=true)](https://github.com/MintyYami/perfectionist)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MintyYami&repo=support-ticket-analyser&theme=tokyonight&hide_border=true)](https://github.com/MintyYami/support-ticket-analyser)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MintyYami&repo=pathfinding-intelligent-agent&theme=tokyonight&hide_border=true)](https://github.com/MintyYami/pathfinding-intelligent-agent)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MintyYami&repo=transportation-booking-chatbot&theme=tokyonight&hide_border=true)](https://github.com/MintyYami/transportation-booking-chatbot)
 
 **Recent Hackathons and Competitions**:
 
-<a href="https://github.com/MintyYami/bateria-detector-and-identifier" style="text-decoration:none">
-  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=bateria-detector-and-identifier&theme=tokyonight&hide_border=true&card_width=130"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/MintyYami/adaptive-timetable-personaliser" style="text-decoration:none">
-  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=adaptive-timetable-personaliser&theme=tokyonight&hide_border=true&card_width=130"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/MintyYami/mental-un-health-agent" style="text-decoration:none">
-  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/pin/?username=MintyYami&repo=mental-un-health-agent&theme=tokyonight&hide_border=true&card_width=130"/></a><br><br>
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MintyYami&repo=bateria-detector-and-identifier&theme=tokyonight&hide_border=true)](https://github.com/MintyYami/bateria-detector-and-identifier)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MintyYami&repo=adaptive-timetable-personaliser&theme=tokyonight&hide_border=true)](https://github.com/MintyYami/adaptive-timetable-personaliser)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=MintyYami&repo=mental-un-health-agent&theme=tokyonight&hide_border=true)](https://github.com/MintyYami/mental-un-health-agent)
 
 **GitHub Project Statistics**:
 
-<a href="#" style="text-decoration:none">
-  <img align="center" src="https://github-readme-stats-sigma-six-87.vercel.app/api/top-langs/?username=MintyYami&theme=tokyonight&hide_border=true"/></a>&nbsp;
-
-<a href="#" style="text-decoration:none">
-  <img align="top" src="https://github-readme-stats-sigma-six-87.vercel.app/api?username=MintyYami&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Project&nbsp;Statistics&card_width=10&hide=prs,issues,contribs"/>
-</a><br><br>
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MintyYami&theme=tokyonight&hide_border=true)](https://github.com/MintyYami)
+[![GitHub Statistics](https://github-stats-extended.vercel.app/api?username=MintyYami&theme=tokyonight&hide_border=true&custom_title=Public&nbsp;Project&nbsp;Statistics&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs,prs,issues)](https://github.com/MintyYami)
